@@ -1,0 +1,17 @@
+[
+  {"name": "Admission", "description": "Applications, eligibility and enrollment."},
+  {"name": "Examination", "description": "Exam forms, schedules, hall tickets and exam rules."},
+  {"name": "Fees", "description": "Tuition, payment dates, receipts and fee issues."},
+  {"name": "Timetable", "description": "Class times, calendars and schedules."},
+  {"name": "Syllabus", "description": "Subjects, course content and academic syllabi."},
+  {"name": "Placement", "description": "Placement registration, employers and career support."},
+  {"name": "Attendance", "description": "Attendance records, requirements and absence policies."},
+  {"name": "Results", "description": "Grades, marksheets, results and revaluation."},
+  {"name": "Scholarship", "description": "Scholarship applications, eligibility and required documents."},
+  {"name": "Courses / Subjects", "description": "Programs, electives, subjects and credits."},
+  {"name": "Academic Procedures", "description": "Academic records, registrations and student processes."},
+  {"name": "Hostel", "description": "Accommodation, hostel rules and facilities."},
+  {"name": "Library", "description": "Library access, borrowing and resources."},
+  {"name": "Documents", "description": "Certificates, transcripts and other student documents."},
+  {"name": "General / Other", "description": "Campus questions that do not fit another category."}
+]

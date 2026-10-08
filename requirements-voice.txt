@@ -1,0 +1,3 @@
+# Optional local speech transcription. Also install FFmpeg and a compatible PyTorch build.
+openai-whisper>=20231117
+imageio-ffmpeg>=0.6.0
